@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Syed+Hafiz+Azfar+Masood" alt="Name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Syed+Hafiz+Azfar+Masood;%F0%9F%9A%80+Co-Founder+of+Clawkers" alt="Name"/>
 </h1>
 
 <p align="center">
