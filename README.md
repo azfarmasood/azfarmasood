@@ -1,6 +1,6 @@
-<!-- 🎬 ANIMATED BANNER IMAGE -->
+<!-- 🎬 ANIMATED CODING BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Automation%20Engineer&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%7C%20AI%20Agents%20%7C%20Business%20Automation&descSize=18&descAlignY=55&descColor=00D9FF" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer_at_work.gif" width="500" alt="Developer Coding Animation"/>
 </p>
 
 <h1 align="center">⚡ Syed Hafiz Azfar Masood</h1>
@@ -81,10 +81,10 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 
 ---
 
-### 🐍 Backend (Python)
+### 🐍 Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask" height="40" alt="Python Backend"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express" height="40" alt="Backend"/>
 </p>
 
 ---
