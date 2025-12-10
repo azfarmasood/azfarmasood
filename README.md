@@ -1,22 +1,25 @@
-<!-- 🎬 ANIMATED TOP BANNER (replace with your own generated GIF) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/azfarmasood/azfarmasood/main/animated-banner.gif" width="100%" alt="Azfar Masood AI Automation Banner"/>
-</p>
+<!-- 🎬 ANIMATED TOP BANNER -->
+<div align="center">
+  
+![AI Automation Engineer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=AI+AUTOMATION+ENGINEER;Building+Intelligent+Systems+%7C+AI+Agents+%7C+Business+Automation)
+
+</div>
 
 <h1 align="center">⚡ Syed Hafiz Azfar Masood</h1>
 <h3 align="center">AI Automation Engineer | AI Agents | Business Automation | MERN + DevOps</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Do_Smart-Not_Hard-blue?style=for-the-badge&logo=zapier" alt="Do smart not hard"/>
-  <img src="https://img.shields.io/badge/Hissab- Automation-8A2BE2?style=for-the-badge" alt="hissab-badge"/>
+  <img src="https://img.shields.io/badge/Do_Smart-Not_Hard-00D9FF?style=for-the-badge&logo=zapier&logoColor=white" alt="Do smart not hard"/>
+  <img src="https://img.shields.io/badge/Hissab-Automation-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" alt="hissab-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=azfarmasood&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 Description
 
-I’m **Syed Hafiz Azfar Masood** — an AI Automation Engineer who turns manual workflows into intelligent, scalable systems.  
-I design and build **AI agents, automation engines, and full-stack integrations** that let businesses *work smart, not hard*. From building end-to-end pipelines to connecting LLMs with real-world systems — I automate the entire flow so teams can focus on impact.
+I'm **Syed Hafiz Azfar Masood** — an AI Automation Engineer who turns manual workflows into intelligent, scalable systems.  
+I design and build **AI agents, automation engines, and full-stack integrations** that let businesses _work smart, not hard_. From building end-to-end pipelines to connecting LLMs with real-world systems — I automate the entire flow so teams can focus on impact.
 
 ---
 
@@ -27,108 +30,213 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 
 ---
 
-## 🧰 Tech Stack & Skills (with icons / badges)
+## 🧰 Tech Stack & Skills
 
 ### 🤖 AI & Automation
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="44"/>
-  <img src="https://img.shields.io/badge/n8n-%23EA4E3C?style=for-the-badge&logo=n8n&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Zapier-FE4F00?style=for-the-badge&logo=zapier&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Make.com-2B2EFA?style=for-the-badge&logo=make&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/CrewAI-000?style=for-the-badge" height="28"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://img.shields.io/badge/n8n-%23EA4E3C?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="28" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" height="28" alt="Make"/>
+  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" height="28" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🕸️_LangGraph-2C2C2C?style=for-the-badge" height="28" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/🤖_CrewAI-000000?style=for-the-badge" height="28" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Anthropic"/>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,azure,gcp,aws,docker,kubernetes" height="40" alt="Cloud Platforms"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="28" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="28" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="28" alt="DigitalOcean"/>
 </p>
 
 ---
 
 ### 💻 Frontend / Fullstack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,ts,js" height="44"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="44"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,ts,js,tailwind,vite" height="40" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend"/>
 </p>
 
 ---
 
 ### 🗄️ Databases, Vector DBs & Graph
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="44"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="44"/>
-  <img src="https://img.shields.io/badge/GraphDB-neo4j-2D7AB8?style=for-the-badge&logo=neo4j&logoColor=white" height="28"/>
-  <!-- Pinecone / Vector DB -->
-  <img src="https://img.shields.io/badge/Pinecone-VectorDB-00C2A8?style=for-the-badge&logo=pinecone" height="28" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Vector_Search-Enabled-6C63FF?style=for-the-badge" height="28"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="40" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="28" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="28" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white" height="28" alt="Weaviate"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" height="28" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" height="28" alt="FAISS"/>
 </p>
 
 ---
 
 ### 🐍 Backend (Python)
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django" height="44"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask" height="40" alt="Python Backend"/>
 </p>
 
 ---
 
 ### 🛠️ DevOps & Messaging
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="44"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka" height="28"/>
-  <img src="https://img.shields.io/badge/Kong_API_Gateway-1A1A1A?style=for-the-badge&logo=kong&logoColor=white" height="28"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab" height="40" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" height="28" alt="Kong"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="28" alt="RabbitMQ"/>
 </p>
 
 ---
 
 ### 💼 Business & Soft Skills
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Communication-Skills-1E90FF?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-32CD32?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Automation_for_Business-FFC300?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Communication-Skills-1E90FF?style=for-the-badge&logo=slack&logoColor=white" height="28" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-32CD32?style=for-the-badge&logo=leetcode&logoColor=white" height="28" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Automation_for_Business-FFC300?style=for-the-badge&logo=automation&logoColor=black" height="28" alt="Business Automation"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" alt="Agile"/>
 </p>
 
 ---
 
-## 🔭 What I build
-- AI agents & LLM-based assistants (LangChain, LangGraph, OpenAI Agents)  
-- Vector search & semantic retrieval (Pinecone + embeddings)  
-- End-to-end automation (n8n / Zapier / Make.com pipelines)  
-- Scalable web apps & APIs (React / Next.js / Node / FastAPI / Django)  
-- Event-driven data & messaging (Kafka, Postgres)  
-- API gateways & integrations (Kong, Dockerized infra)
+## 🔭 What I Build
+
+- 🤖 **AI Agents & LLM Assistants** (LangChain, LangGraph, OpenAI Agents, CrewAI)
+- 🔍 **Vector Search & Semantic Retrieval** (Pinecone, Weaviate, ChromaDB + embeddings)
+- ⚡ **End-to-End Automation** (n8n / Zapier / Make.com pipelines)
+- 🌐 **Scalable Web Apps & APIs** (React / Next.js / Node / FastAPI / Django)
+- 📊 **Event-Driven Data & Messaging** (Kafka, RabbitMQ, Postgres)
+- 🔌 **API Gateways & Integrations** (Kong, Dockerized infrastructure)
+- ☁️ **Cloud Deployments** (Vercel, Azure, AWS, GCP, Railway)
 
 ---
 
 ## 📈 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azfarmasood&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azfarmasood&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight" height="120"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azfarmasood&theme=tokyo-night&hide_border=true&border_radius=10&area=true" width="90%" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 📫 Connect
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="36"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="36"/></a>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azfarmasood&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🔧 Replaceable assets & notes
-- **Top banner:** replace `animated-banner.gif` with your generated GIF in the repo root (or update the path).  
-- **Badges & icons:** I used Shields & Skillicons — if you want custom PNG/SVG icons, upload them to the repo and change the `src` attributes.  
-- **Pinecone:** badge is included — if you want a Pinecone icon image instead, I can make one and add it to the repo.
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/azfarmasood" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/azfarmasood" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:azfarmasood@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/azfarmasood" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### ✅ Want the animated banner now?
-Tell me **which style number** you want from earlier (Tech Neon / Cyberpunk / Dark Minimal / Business Automation / Futuristic / AI Brain / Workflow), and I’ll **generate a custom animated GIF banner** sized perfectly for GitHub profile (1200–1640px wide recommended).
+## 💡 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/azfarmasood/ai-automation-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azfarmasood&repo=ai-automation-project&theme=tokyonight&hide_border=true&border_radius=10" alt="Featured Project 1"/>
+  </a>
+  <a href="https://github.com/azfarmasood/langchain-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azfarmasood&repo=langchain-agents&theme=tokyonight&hide_border=true&border_radius=10" alt="Featured Project 2"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```typescript
+const currentFocus = {
+  learning: [
+    "Advanced AI Agents",
+    "Multi-Agent Systems",
+    "LangGraph Workflows",
+  ],
+  building: [
+    "AI Automation Platform",
+    "Vector Search Engine",
+    "Business Intelligence Tools",
+  ],
+  exploring: ["AutoGen", "Semantic Kernel", "Agent Orchestration"],
+  goal: "Revolutionize business automation with AI-powered intelligent agents",
+};
+```
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+Python       12 hrs 45 mins  ████████████░░░░░░░░░   48.2%
+TypeScript   8 hrs 20 mins   ████████░░░░░░░░░░░░░   31.5%
+JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   12.3%
+YAML         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░    5.7%
+Other        40 mins         ░░░░░░░░░░░░░░░░░░░░░    2.3%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/azfarmasood/azfarmasood/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+</p>
+
+<div align="center">
+  
+**⭐ From [azfarmasood](https://github.com/azfarmasood) with 💙**
+
+</div>
