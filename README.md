@@ -201,11 +201,11 @@ const currentFocus = {
 <!--START_SECTION:waka-->
 
 ```text
-Python       12 hrs 45 mins  ████████████░░░░░░░░░   48.2%
-TypeScript   8 hrs 20 mins   ████████░░░░░░░░░░░░░   31.5%
-JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   12.3%
-YAML         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░    5.7%
-Other        40 mins         ░░░░░░░░░░░░░░░░░░░░░    2.3%
+Python       12 hrs 45 mins  █████████████████████   100%
+TypeScript   8 hrs 20 mins   █████████████████░░░░   80%
+JavaScript   3 hrs 15 mins   █████████████░░░░░░░░   60%
+YAML         1 hr 30 mins    ███████████░░░░░░░░░░   50%
+Other        40 mins         █████░░░░░░░░░░░░░░░░   25%
 ```
 
 <!--END_SECTION:waka-->
@@ -217,10 +217,6 @@ Other        40 mins         ░░░░░░░░░░░░░░░░░
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/azfarmasood/azfarmasood/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
