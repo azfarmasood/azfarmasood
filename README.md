@@ -126,18 +126,12 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/azfarmasood">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azfarmasood&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=azfarmasood&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/azfarmasood">
-    <img src="https://github-readme-stats.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/azfarmasood">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -149,9 +143,7 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/azfarmasood">
-    <img src="https://github-profile-trophy.vercel.app/?username=azfarmasood&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=azfarmasood&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
