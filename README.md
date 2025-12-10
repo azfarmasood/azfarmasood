@@ -1,6 +1,6 @@
-<!-- 🎬 ANIMATED CODING BANNER -->
+<!-- 🎬 PROFESSIONAL 3D ANIMATED BANNER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Developer Coding Animation"/>
+  <img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif" width="600" alt="Professional Developer Coding Animation"/>
 </p>
 
 <h1 align="center">⚡ Syed Hafiz Azfar Masood</h1>
