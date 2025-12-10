@@ -1,13 +1,9 @@
-<!-- 🎬 PROFESSIONAL ANIMATED BANNER -->
-<div align="center">
+<!-- 🎬 ANIMATED BANNER IMAGE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Automation%20Engineer&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%7C%20AI%20Agents%20%7C%20Business%20Automation&descSize=18&descAlignY=55&descColor=00D9FF" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+AUTOMATION+ENGINEER+⚡;Building+Intelligent+Systems+%7C+AI+Agents;Business+Automation+%7C+MERN+%2B+DevOps)](https://git.io/typing-svg)
-
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=600&lines=Syed+Hafiz+Azfar+Masood" alt="Name" />
-</h1>
+<h1 align="center">⚡ Syed Hafiz Azfar Masood</h1>
 
 <h3 align="center">🤖 AI Automation Engineer | AI Agents | Business Automation | MERN + DevOps</h3>
 
@@ -130,16 +126,22 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azfarmasood&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
+  <a href="https://github.com/azfarmasood">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azfarmasood&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
+  <a href="https://github.com/azfarmasood">
+    <img src="https://github-readme-stats.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/azfarmasood">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azfarmasood&theme=tokyo-night&hide_border=true&border_radius=10&area=true" width="90%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azfarmasood&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -147,7 +149,9 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azfarmasood&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/azfarmasood">
+    <img src="https://github-profile-trophy.vercel.app/?username=azfarmasood&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
@@ -166,19 +170,6 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
   </a>
   <a href="https://github.com/azfarmasood" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 💡 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/azfarmasood/ai-automation-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azfarmasood&repo=ai-automation-project&theme=tokyonight&hide_border=true&border_radius=10" alt="Featured Project 1"/>
-  </a>
-  <a href="https://github.com/azfarmasood/langchain-agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azfarmasood&repo=langchain-agents&theme=tokyonight&hide_border=true&border_radius=10" alt="Featured Project 2"/>
   </a>
 </p>
 
