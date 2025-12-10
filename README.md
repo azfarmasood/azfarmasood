@@ -139,14 +139,6 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azfarmasood&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -170,10 +162,10 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 
 ```typescript
 interface TypeStringObjectArray {
-    learning: string[]
-    building: string[]
-    exploring: string[]
-    goal: string
+  learning: string[];
+  building: string[];
+  exploring: string[];
+  goal: string;
 }
 const currentFocus: TypeStringObjectArray = {
   learning: [
