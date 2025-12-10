@@ -129,7 +129,7 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=azfarmasood&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azfarmasood&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
