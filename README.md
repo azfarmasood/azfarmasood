@@ -1,12 +1,15 @@
-<!-- 🎬 ANIMATED TOP BANNER -->
+<!-- 🎬 PROFESSIONAL ANIMATED BANNER -->
 <div align="center">
-  
-![AI Automation Engineer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=AI+AUTOMATION+ENGINEER;Building+Intelligent+Systems+%7C+AI+Agents+%7C+Business+Automation)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+AUTOMATION+ENGINEER+⚡;Building+Intelligent+Systems+%7C+AI+Agents;Business+Automation+%7C+MERN+%2B+DevOps)](https://git.io/typing-svg)
 
 </div>
 
-<h1 align="center">⚡ Syed Hafiz Azfar Masood</h1>
-<h3 align="center">AI Automation Engineer | AI Agents | Business Automation | MERN + DevOps</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=600&lines=Syed+Hafiz+Azfar+Masood" alt="Name" />
+</h1>
+
+<h3 align="center">🤖 AI Automation Engineer | AI Agents | Business Automation | MERN + DevOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Do_Smart-Not_Hard-00D9FF?style=for-the-badge&logo=zapier&logoColor=white" alt="Do smart not hard"/>
@@ -16,7 +19,7 @@
 
 ---
 
-## 🚀 Description
+## 🚀 About Me
 
 I'm **Syed Hafiz Azfar Masood** — an AI Automation Engineer who turns manual workflows into intelligent, scalable systems.  
 I design and build **AI agents, automation engines, and full-stack integrations** that let businesses _work smart, not hard_. From building end-to-end pipelines to connecting LLMs with real-world systems — I automate the entire flow so teams can focus on impact.
@@ -38,11 +41,11 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://img.shields.io/badge/n8n-%23EA4E3C?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n"/>
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="28" alt="Zapier"/>
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" height="28" alt="Make"/>
-  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" height="28" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/🕸️_LangGraph-2C2C2C?style=for-the-badge" height="28" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" height="28" alt="Make"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=graphql&logoColor=white" height="28" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/🤖_CrewAI-000000?style=for-the-badge" height="28" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=ai&logoColor=white" height="28" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Anthropic"/>
 </p>
 
@@ -51,10 +54,11 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ### ☁️ Cloud & DevOps Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,azure,gcp,aws,docker,kubernetes" height="40" alt="Cloud Platforms"/>
+  <img src="https://skillicons.dev/icons?i=vercel,azure,gcp,aws,docker" height="40" alt="Cloud Platforms"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="28" alt="Railway"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="28" alt="Heroku"/>
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="28" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Netlify"/>
 </p>
 
 ---
@@ -72,9 +76,9 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="40" alt="Databases"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="28" alt="Neo4j"/>
+  <img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="28" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white" height="28" alt="Weaviate"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge" height="28" alt="Weaviate"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" height="28" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" height="28" alt="FAISS"/>
 </p>
@@ -92,7 +96,7 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ### 🛠️ DevOps & Messaging
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab" height="40" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" height="40" alt="DevOps"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" height="28" alt="Kong"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="28" alt="RabbitMQ"/>
@@ -103,9 +107,9 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ### 💼 Business & Soft Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Communication-Skills-1E90FF?style=for-the-badge&logo=slack&logoColor=white" height="28" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Communication-1E90FF?style=for-the-badge&logo=slack&logoColor=white" height="28" alt="Communication"/>
   <img src="https://img.shields.io/badge/Problem_Solving-32CD32?style=for-the-badge&logo=leetcode&logoColor=white" height="28" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Automation_for_Business-FFC300?style=for-the-badge&logo=automation&logoColor=black" height="28" alt="Business Automation"/>
+  <img src="https://img.shields.io/badge/Business_Automation-FFC300?style=for-the-badge&logoColor=black" height="28" alt="Business Automation"/>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" alt="Agile"/>
 </p>
 
