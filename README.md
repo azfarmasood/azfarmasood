@@ -142,7 +142,7 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azfarmasood" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/azfarmasood22" target="_blank">
