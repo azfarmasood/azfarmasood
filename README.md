@@ -3,9 +3,13 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="AI Automation Developer Animation"/>
 </p>
 
-<h1 align="center">⚡ Syed Hafiz Azfar Masood</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Syed+Hafiz+Azfar+Masood" alt="Name"/>
+</h1>
 
-<h3 align="center">🤖 AI Automation Engineer | AI Agents | Business Automation | MERN + DevOps</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+AI+Automation+Engineer+%7C+AI+Agents+%7C+Business+Automation;%F0%9F%92%BB+MERN+Stack+%7C+DevOps+%7C+Full+Stack+Developer;%F0%9F%94%A5+Do+Smart+Not+Hard+%7C+Automate+Everything" alt="Subtitle"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Do_Smart-Not_Hard-00D9FF?style=for-the-badge&logo=zapier&logoColor=white" alt="Do smart not hard"/>
@@ -63,7 +67,6 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,ts,js,tailwind,vite" height="40" alt="Frontend"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend"/>
 </p>
 
 ---
@@ -92,7 +95,7 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ### 🛠️ DevOps & Messaging
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" height="40" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" height="40" alt="DevOps"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" height="28" alt="Kong"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="28" alt="RabbitMQ"/>
