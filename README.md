@@ -129,10 +129,6 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azfarmasood&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=azfarmasood&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azfarmasood&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
@@ -173,7 +169,13 @@ I deliver: AI Agents, workflow automations, data pipelines, vector search, and w
 ## 🎯 Current Focus
 
 ```typescript
-const currentFocus = {
+interface TypeStringObjectArray {
+    learning: string[]
+    building: string[]
+    exploring: string[]
+    goal: string
+}
+const currentFocus: TypeStringObjectArray = {
   learning: [
     "Advanced AI Agents",
     "Multi-Agent Systems",
