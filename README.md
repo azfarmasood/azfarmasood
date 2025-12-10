@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Description (short + powerful)
+## 🚀 Description
 
 I’m **Syed Hafiz Azfar Masood** — an AI Automation Engineer who turns manual workflows into intelligent, scalable systems.  
 I design and build **AI agents, automation engines, and full-stack integrations** that let businesses *work smart, not hard*. From building end-to-end pipelines to connecting LLMs with real-world systems — I automate the entire flow so teams can focus on impact.
